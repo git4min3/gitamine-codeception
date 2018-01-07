@@ -1,5 +1,5 @@
 {
-  "name": "codeception",
-  "author": "Javier Gonzalez Cuadrado <xgc1986@gmail.com",
+  "name": "gitamine-codeception",
+  "authors": ["Javier González Cuadrado <xgc1986@gmail.com>"],
   "plugin": "git4min3/gitamine-codeception"
 }

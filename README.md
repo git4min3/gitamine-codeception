@@ -5,6 +5,7 @@
 * php >= 7.1
 * codeception
 * Linux/Mac
+* Gitamine
 
 ## Installation
 
